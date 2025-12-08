@@ -1,11 +1,179 @@
 {
-    "expenses": [
-        {
-            "id": 1,
-            "title": "Groceries",
-            "category": "Food",
-            "amount": 150.75,
-            "date": "08-12-2025"          
-        }
-    ]
+  "expenses": [
+    {
+      "id": 1,
+      "title": "Groceries",
+      "category": "Food",
+      "amount": 150.75,
+      "date": "08-12-2025"
+    },
+    {
+      "id": 2,
+      "title": "Gas Station",
+      "category": "Transportation",
+      "amount": 45.5,
+      "date": "07-12-2025"
+    },
+    {
+      "id": 3,
+      "title": "Netflix Subscription",
+      "category": "Entertainment",
+      "amount": 15.99,
+      "date": "06-12-2025"
+    },
+    {
+      "id": 4,
+      "title": "Electric Bill",
+      "category": "Utilities",
+      "amount": 89.25,
+      "date": "05-12-2025"
+    },
+    {
+      "id": 5,
+      "title": "Dinner at Restaurant",
+      "category": "Food",
+      "amount": 67.8,
+      "date": "04-12-2025"
+    },
+    {
+      "id": 6,
+      "title": "Gym Membership",
+      "category": "Health",
+      "amount": 29.99,
+      "date": "03-12-2025"
+    },
+    {
+      "id": 7,
+      "title": "Amazon Purchase",
+      "category": "Shopping",
+      "amount": 125.4,
+      "date": "02-12-2025"
+    },
+    {
+      "id": 8,
+      "title": "Bus Pass",
+      "category": "Transportation",
+      "amount": 35.0,
+      "date": "01-12-2025"
+    },
+    {
+      "id": 9,
+      "title": "Coffee Shop",
+      "category": "Food",
+      "amount": 5.75,
+      "date": "30-11-2025"
+    },
+    {
+      "id": 10,
+      "title": "Movie Tickets",
+      "category": "Entertainment",
+      "amount": 32.5,
+      "date": "29-11-2025"
+    },
+    {
+      "id": 11,
+      "title": "Water Bill",
+      "category": "Utilities",
+      "amount": 42.3,
+      "date": "28-11-2025"
+    },
+    {
+      "id": 12,
+      "title": "Pharmacy",
+      "category": "Health",
+      "amount": 28.15,
+      "date": "27-11-2025"
+    },
+    {
+      "id": 13,
+      "title": "New Shoes",
+      "category": "Shopping",
+      "amount": 89.99,
+      "date": "26-11-2025"
+    },
+    {
+      "id": 14,
+      "title": "Lunch with Colleagues",
+      "category": "Food",
+      "amount": 23.45,
+      "date": "25-11-2025"
+    },
+    {
+      "id": 15,
+      "title": "Uber Ride",
+      "category": "Transportation",
+      "amount": 18.75,
+      "date": "24-11-2025"
+    },
+    {
+      "id": 16,
+      "title": "Spotify Premium",
+      "category": "Entertainment",
+      "amount": 10.99,
+      "date": "23-11-2025"
+    },
+    {
+      "id": 17,
+      "title": "Internet Bill",
+      "category": "Utilities",
+      "amount": 59.99,
+      "date": "22-11-2025"
+    },
+    {
+      "id": 18,
+      "title": "Vitamin Supplements",
+      "category": "Health",
+      "amount": 34.5,
+      "date": "21-11-2025"
+    },
+    {
+      "id": 19,
+      "title": "Book Store",
+      "category": "Shopping",
+      "amount": 42.8,
+      "date": "20-11-2025"
+    },
+    {
+      "id": 20,
+      "title": "Weekly Groceries",
+      "category": "Food",
+      "amount": 95.6,
+      "date": "19-11-2025"
+    },
+    {
+      "id": 21,
+      "title": "Car Maintenance",
+      "category": "Transportation",
+      "amount": 120.0,
+      "date": "18-11-2025"
+    },
+    {
+      "id": 22,
+      "title": "Concert Tickets",
+      "category": "Entertainment",
+      "amount": 150.0,
+      "date": "17-11-2025"
+    },
+    {
+      "id": 23,
+      "title": "Gas Bill",
+      "category": "Utilities",
+      "amount": 65.25,
+      "date": "16-11-2025"
+    },
+    {
+      "id": 24,
+      "title": "Doctor Visit",
+      "category": "Health",
+      "amount": 75.0,
+      "date": "15-11-2025"
+    },
+    {
+      "id": 25,
+      "title": "Clothing Store",
+      "category": "Shopping",
+      "amount": 112.3,
+      "date": "14-11-2025"
+    }
+  ]
 }
